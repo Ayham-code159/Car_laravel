@@ -1,0 +1,16 @@
+
+# Visual Studio
+.vs/
+
+# Laravel
+.env
+.env.*
+!.env.example
+/vendor/
+
+# Frontend
+/node_modules/
+/dist/
+
+# General
+*.log
